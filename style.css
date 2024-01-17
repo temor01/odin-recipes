@@ -38,3 +38,14 @@ ol {
 #last_p {
     padding-bottom: 10%;
 }
+
+.pic {
+    display: inline;
+    height: 200px;
+    width: 200px;
+}
+
+.chef {
+    width: 400px;
+    height: auto;
+}
