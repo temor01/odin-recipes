@@ -46,11 +46,21 @@ ol {
     height: auto;
 }
 
-.header {
+#image {
     display: inline;
+    width: 60px;
+    height:auto;
+}
+
+#header {
+    display: inline;
+}
+
+div {
+    text-align: center;
     padding-top: 5%;
-    padding-left: 40%
-    width: 90px;
-    height: auto;
-    align-items: center;
+}
+
+.food_img {
+    padding-top: 5%;
 }
