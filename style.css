@@ -1,7 +1,7 @@
 
 body {
     background-color: #FCEE0C;
-    font-size: 28px;
+    font-size: 25px;
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -63,4 +63,9 @@ div {
 
 .food_img {
     padding-top: 5%;
+}
+
+code {
+    font-size: 23px;
+    color: grey;
 }
