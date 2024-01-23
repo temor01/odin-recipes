@@ -41,6 +41,10 @@ ol {
     padding-bottom: 10%;
 }
 
+.top-pics {
+    display: flex;
+}
+
 .pic {
     display: inline;
     height: 200px;
