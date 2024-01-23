@@ -43,6 +43,9 @@ ol {
 
 .top-pics {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2%;
 }
 
 .pic {
