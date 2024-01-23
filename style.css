@@ -46,10 +46,9 @@ ol {
 }
 
 .pic {
-    display: inline;
     height: 200px;
     width: 200px;
-    align-items: center;
+    flex: 1;
 }
 
 .chef {
