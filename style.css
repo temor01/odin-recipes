@@ -13,13 +13,6 @@ body {
     box-sizing: inherit;
 }
 
-img {
-    margin: auto;
-    display: block;
-    width: 400px;
-    height: 400px;
-}
-
 h3 {
     padding-bottom: 0px;
 }
@@ -31,10 +24,6 @@ ol {
 .info {
     font-weight: normal;
     text-align: center;
-}
-
-.home {
-    color: red;
 }
 
 #last_p {
@@ -54,9 +43,10 @@ ol {
     flex: 1;
 }
 
+.chef-image,
 .chef {
+    text-align: center;
     width: 400px;
-    height: auto;
 }
 
 #image {
