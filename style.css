@@ -38,8 +38,8 @@ ol {
 }
 
 .pic {
-    height: 200px;
     width: 200px;
+    height: 200px;
     flex: 1;
 }
 
@@ -68,8 +68,15 @@ div {
     padding-top: 5%;
 }
 
+.food_pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .food_img {
-    margin-top: 5%;
+    width: 400px;
+    height: 400px;
 }
 
 code {
