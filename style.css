@@ -43,9 +43,13 @@ ol {
     flex: 1;
 }
 
-.chef-image,
+.chef-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .chef {
-    text-align: center;
     width: 400px;
 }
 
