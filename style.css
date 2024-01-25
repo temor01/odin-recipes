@@ -79,3 +79,7 @@ code {
     font-size: 23px;
     color: grey;
 }
+
+ul {
+    list-style-type: none;
+}
