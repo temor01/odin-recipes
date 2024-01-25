@@ -14,7 +14,7 @@ body {
 }
 
 h3 {
-    padding-bottom: 0px;
+    padding-top: 5%;
 }
 
 ol {
@@ -33,9 +33,11 @@ ol {
 .top-pics {
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 2%;
+    justify-content: space-evenly;
     flex-wrap: wrap;
+    width: auto;
+    height: 200px;
+    padding-bottom: 5%;
 }
 
 .pic {
