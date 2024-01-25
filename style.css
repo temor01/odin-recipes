@@ -13,10 +13,6 @@ body {
     box-sizing: inherit;
 }
 
-h3 {
-    padding-top: 5%;
-}
-
 ol {
     padding-bottom: 10%;
 }
@@ -35,9 +31,7 @@ ol {
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    width: auto;
-    height: 200px;
-    padding-bottom: 5%;
+    height: 7%;
 }
 
 .pic {
