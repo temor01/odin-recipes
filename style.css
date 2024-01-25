@@ -35,9 +35,8 @@ ol {
 }
 
 .pic {
-    width: 200px;
     height: 200px;
-    flex: 1;
+    flex: auto;
 }
 
 .chef-image {
