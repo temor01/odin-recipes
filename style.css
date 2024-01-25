@@ -35,6 +35,7 @@ ol {
     align-items: center;
     justify-content: center;
     gap: 2%;
+    flex-wrap: wrap;
 }
 
 .pic {
